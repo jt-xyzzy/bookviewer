@@ -1,10 +1,11 @@
-<h1>Localized Readme Notes</h1>
-  
-  <h2>Book Viewer: Exploring FRBR for Early Print</h2>
-<p>This is a testing environment for a research project. For details about the Universal Viewer, please see the main repository.</p>
-<p align="center">
-<img src="https://avatars0.githubusercontent.com/u/9430521" style="width: 150px;" />
-<h2 align="center" style="width: 60%; margin-left: auto; margin-right: auto;">Universal Viewer</h2>
+ 
+  <h1>Book Viewer: A Fork of IIIF Universal Viewer</h1>
+    
+    <h2>Exploring FRBR for Early Print</h2>
+<p>This is fork is a testing environment for a research project. For details about the Universal Viewer, please see the main repository.</p>
+
+<hr/>
+<h2>Universal Viewer</h2>
 <p align="center">
 A community-developed open source project on a mission<br/> to help you share your 📚📜📰📽️📻🗿 with the 🌎
 </p>
